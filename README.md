@@ -1,2 +1,2 @@
 # responsive-sidebar-website
-A responsive website with a sidebar using only HTML &amp; CSS.
+A stylish responsive website with a toggleable sidebar and full-screen background image. Built using HTML and CSS.
